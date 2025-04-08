@@ -1,4 +1,23 @@
-<h2 align="center"><b>Insurance Claims 2015</b></h2>
+<h2 align="center"><b>Reclamaciones de Seguro 2015 (ESP)</b></h2>
+
+Este proyecto aborda el tema de la detección de fraude en las reclamaciones de seguros de automóviles, utilizando técnicas de ciencia de datos y aprendizaje automático. El objetivo es identificar el perfil de los usuarios que cometen fraude, las características de las reclamaciones fraudulentas y desarrollar una herramienta para calcular la probabilidad de fraude en nuevas reclamaciones.
+
+El conjunto de datos utilizado es "insurance_claims.csv" y está disponible en la plataforma Kaggle bajo la licencia Creative Commons Attribution 4.0 International.
+
+El conjunto de datos consta de varias características que proporcionan información sobre el incidente reportado, así como sobre el cliente que presenta la reclamación. La variable objetivo es el reporte de fraude, proporcionado por los profesionales del seguro.
+
+Cada fila en el conjunto de datos representa una reclamación de seguro de automóvil presentada entre Enero y Marzo de 2015.
+
+Archivos del proyecto:
+
+ - **Conjunto de datos**: Disponible en Kaggle – [Auto Insurance Claims Data](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data).
+ - **Notebook_Claims.ipynb**: Contiene el código completo.
+ - **Queries_Claims.sql**: Consultas SQL utilizadas en el análisis.
+ - **Insurance_Claims_SQL.pdf**: Documento que contiene la información solicitada, consultas y resultados.
+ - **Insurance_Claims.twbx**: Archivo de Tableau que contiene dos dashboards interactivos.
+
+
+<h2 align="center"><b>Insurance Claims 2015 (ENG)</b></h2>
 
 
 This project addresses the issue of fraud detection in auto insurance claims using data science and machine learning techniques. The goal is to identify the profile of users committing fraud, the key characteristics of fraudulent claims, and develop a tool to calculate the probability of fraud in new claims.
